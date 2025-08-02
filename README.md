@@ -40,7 +40,3 @@ These metrics offer a comprehensive view of JLPT participation across different 
 - 📊 **Power BI** – For interactive data visualization  
 - 📁 **Pandas / OpenPyXL** – For handling and transforming Excel files
 
----
-
-## 📁 Folder Structure
-
