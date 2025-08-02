@@ -40,3 +40,9 @@ These metrics offer a comprehensive view of JLPT participation across different 
 - 📊 **Power BI** – For interactive data visualization  
 - 📁 **Pandas / OpenPyXL** – For handling and transforming Excel files
 
+---
+
+## 🔗 Access the Dashboard
+
+You can explore the interactive Power BI dashboard here:  
+👉 [JLPT World Data Dashboard](https://bit.ly/46EsFUo)
