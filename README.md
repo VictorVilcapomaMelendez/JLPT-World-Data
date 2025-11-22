@@ -45,4 +45,4 @@ These metrics offer a comprehensive view of JLPT participation across different 
 ## 🔗 Access the Dashboard
 
 You can explore the interactive Power BI dashboard here:  
-👉 [JLPT World Data Dashboard]([https://bit.ly/46EsFUo](https://app.powerbi.com/view?r=eyJrIjoiZDRiYzE2MGMtZWUyNC00YTNhLThlM2MtYjgyYmQ4OGEwNTM5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9))
+👉 [JLPT World Data Dashboard]([https://bit.ly/46EsFUo](https://app.powerbi.com/view?r=eyJrIjoiZDRiYzE2MGMtZWUyNC00YTNhLThlM2MtYjgyYmQ4OGEwNTM5IiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9)
